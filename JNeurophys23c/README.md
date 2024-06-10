@@ -1,4 +1,4 @@
-## JNeurophys23c
+## JNeurophys23c Paper
 _Decoding working memory information from neurons with and without
 persistent activity in the primate prefrontal cortex_
 

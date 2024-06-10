@@ -1,4 +1,4 @@
-## JNeurophys23b
+## JNeurophys23b Paper
 _Laminar pattern of adolescent development changes in working memory neuronal activity_
 
 Authors: Junda Zhu, Benjamin M Hammond, Xin Maizie Zhou, Christos Constantinidis
