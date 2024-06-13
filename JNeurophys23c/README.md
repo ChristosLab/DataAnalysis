@@ -1,4 +1,5 @@
 ## JNeurophys23c Paper
+Code for Thrower et al., J. Neurophys. 2023 paper 
 _Decoding working memory information from neurons with and without
 persistent activity in the primate prefrontal cortex_
 
