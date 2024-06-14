@@ -1,0 +1,1 @@
+both script can choose which subject (early in script) 

@@ -1,0 +1,1 @@
+run removepure_diagonal_decoding, the other two functions are support functions

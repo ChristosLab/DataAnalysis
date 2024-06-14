@@ -1,0 +1,1 @@
+get_eye_direction generate spatial_sacdirect.mat for other scripts,find_significant_saccade generate bar graph,saccade_decoding_all use all cells for decoding,saccde_decoding deal with correct vs err decoding

@@ -1,0 +1,1 @@
+run fair_diagonal_decoding, normalize_SVM_decoder is the decoder function, diagonal_findsig is permutation test function

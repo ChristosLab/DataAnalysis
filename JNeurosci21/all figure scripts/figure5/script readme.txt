@@ -1,0 +1,1 @@
+both script can choose which area to plot(last part of code)

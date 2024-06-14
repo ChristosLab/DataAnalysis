@@ -1,0 +1,6 @@
+spatial match/nonmatch:find_significant_apr3
+spatial epoch:find_significant_cells_2way
+feature match/nonmatch:find_significant_may7
+feature epoch:find_significant_featur2way
+
+all script output proportion and f scores
