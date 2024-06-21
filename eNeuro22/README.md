@@ -1,4 +1,3 @@
-
 ## eNeuro22 Paper
 _Rhythmicity of Prefrontal Local Field Potentials after Nucleus Basalis Stimulation_
 
